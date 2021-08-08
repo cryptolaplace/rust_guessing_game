@@ -1,7 +1,7 @@
 use std::io;
 use rand::Rng;
 use std::cmp::Ordering;
-
+//play with rust
 
 fn main() {
     println!("Guess the number!");
